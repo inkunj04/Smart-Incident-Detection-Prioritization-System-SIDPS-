@@ -96,5 +96,4 @@ The **Smart Incident Detection & Prioritization System (SIDPS)** aims to automat
 │   └── feature_length.pkl        # Combined feature vector length
 │
 ├── 📓 incident.ipynb             # Notebook for data prep and model training
-├── 📄 requirements.txt           # Python dependencies
 └── README.md                     # Project documentation
